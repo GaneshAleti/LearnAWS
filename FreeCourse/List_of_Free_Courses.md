@@ -19,24 +19,23 @@
          - Use Search feature: "AWS" 
          - Use Filter: Under `Price` tick/select `Free` 
 
-- #### [Cloud Computing: The Technical essentials ](https://www.udemy.com/course/cloud-computing-the-technical-essentials/) by ***Suresh S*** ~ 
-           Duration: 2.50hrs
+- #### [Cloud Computing: The Technical essentials ](https://www.udemy.com/course/cloud-computing-the-technical-essentials/) by ***Suresh S*** - Duration: 2.50hrs
 
-- #### [Introduction to AWS Cloud Computing](https://www.udemy.com/course/introduction-to-aws-cloud-computing/) by ***Kaushik Vadali***  Duration:2.15hrs
+- #### [Introduction to AWS Cloud Computing](https://www.udemy.com/course/introduction-to-aws-cloud-computing/) by ***Kaushik Vadali*** - Duration:2.15hrs
 
-- #### [Bash Basics for Cloud Computing](https://www.udemy.com/course/bash-basics-for-cloud-computing/) by ***Kumulus Technologies***   Duration: 44mins
+- #### [Bash Basics for Cloud Computing](https://www.udemy.com/course/bash-basics-for-cloud-computing/) by ***Kumulus Technologies*** -  Duration: 44mins
  
-- #### [SSH Basics for Cloud Security ](https://www.udemy.com/course/ssh-basics-for-cloud-security/) by ***Kumulus Technologies***  Duration: 33mins
+- #### [SSH Basics for Cloud Security ](https://www.udemy.com/course/ssh-basics-for-cloud-security/) by ***Kumulus Technologies*** - Duration: 33mins
 
-- #### [AWS Essentials (2019) ](https://www.udemy.com/course/linux-academy-aws-essentials-2019/) by ***Linux Academy***       Duration:7.5hrs
+- #### [AWS Essentials (2019) ](https://www.udemy.com/course/linux-academy-aws-essentials-2019/) by ***Linux Academy***    -   Duration:7.5hrs
 
 - #### [AWS Concepts ](https://www.udemy.com/course/aws-concepts/) by ***Linux Academy, Thomas Haslett*** Duration: 1.17hrs
  
-- #### [Overview of AWS Services eco-system (Not a hands on course) ](https://www.udemy.com/course/overview-of-aws-services/) by ***Chetan Agrawal*** Duration: 40mins
+- #### [Overview of AWS Services eco-system (Not a hands on course) ](https://www.udemy.com/course/overview-of-aws-services/) by ***Chetan Agrawal*** - Duration: 40mins
  
-- #### [Starting your Career with Amazon AWS ](https://www.udemy.com/course/how-to-start-a-carrer-in-cloud-computing-with-amazon-aws/) by ***Andrew I*** Duration: 35mins
+- #### [Starting your Career with Amazon AWS ](https://www.udemy.com/course/how-to-start-a-carrer-in-cloud-computing-with-amazon-aws/) by ***Andrew I*** - Duration: 35mins
  
-- #### [Free AWS Certified Cloud Practitioner 2019 ](https://www.udemy.com/course/free-aws-certified-cloud-practitioner/) by ***Andrew Brown, Andrew Bayko** Duration: 3.44hrs
+- #### [Free AWS Certified Cloud Practitioner 2019 ](https://www.udemy.com/course/free-aws-certified-cloud-practitioner/) by ***Andrew Brown, Andrew Bayko** - Duration: 3.44hrs
 
 - #### [Learn Amazon Web Services (AWS) easily to become Architect](https://www.udemy.com/course/learn-amazon-web-services-aws-easily-to-become-architect/) by  Duration: 5.38hrs
 
