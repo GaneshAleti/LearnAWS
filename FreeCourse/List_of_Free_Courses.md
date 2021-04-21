@@ -19,8 +19,8 @@
          - Use Search feature: "AWS" 
          - Use Filter: Under `Price` tick/select `Free` 
 
-- #### [Cloud Computing: The Technical essentials ](https://www.udemy.com/course/cloud-computing-the-technical-essentials/) by ***Suresh S***  Duration: 2.50hrs
-\
+- #### [Cloud Computing: The Technical essentials ](https://www.udemy.com/course/cloud-computing-the-technical-essentials/) by ***Suresh S*** ~ Duration: 2.50hrs
+
 - #### [Introduction to AWS Cloud Computing](https://www.udemy.com/course/introduction-to-aws-cloud-computing/) by ***Kaushik Vadali***  Duration:2.15hrs
 
 - #### [Bash Basics for Cloud Computing](https://www.udemy.com/course/bash-basics-for-cloud-computing/) by ***Kumulus Technologies***   Duration: 44mins
