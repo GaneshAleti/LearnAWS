@@ -29,7 +29,7 @@
 
 - #### [AWS Essentials (2019) ](https://www.udemy.com/course/linux-academy-aws-essentials-2019/) by ***Linux Academy***    -   Duration:7.5hrs
 
-- #### [AWS Concepts ](https://www.udemy.com/course/aws-concepts/) by ***Linux Academy, Thomas Haslett*** Duration: 1.17hrs
+- #### [AWS Concepts ](https://www.udemy.com/course/aws-concepts/) by ***Linux Academy, Thomas Haslett*** - Duration: 1.17hrs
  
 - #### [Overview of AWS Services eco-system (Not a hands on course) ](https://www.udemy.com/course/overview-of-aws-services/) by ***Chetan Agrawal*** - Duration: 40mins
  
@@ -37,13 +37,13 @@
  
 - #### [Free AWS Certified Cloud Practitioner 2019 ](https://www.udemy.com/course/free-aws-certified-cloud-practitioner/) by ***Andrew Brown, Andrew Bayko** - Duration: 3.44hrs
 
-- #### [Learn Amazon Web Services (AWS) easily to become Architect](https://www.udemy.com/course/learn-amazon-web-services-aws-easily-to-become-architect/) by  Duration: 5.38hrs
+- #### [Learn Amazon Web Services (AWS) easily to become Architect](https://www.udemy.com/course/learn-amazon-web-services-aws-easily-to-become-architect/) by - Duration: 5.38hrs
 
-- #### [AWS Certified Solutions Architect Associate Introduction ](https://www.udemy.com/course/aws-certified-solutions-architect-associate-in-30-days/) by ***Premraj Jeyaprakash*** Duration:2.9hrs
+- #### [AWS Certified Solutions Architect Associate Introduction ](https://www.udemy.com/course/aws-certified-solutions-architect-associate-in-30-days/) by ***Premraj Jeyaprakash*** - Duration:2.9hrs
 
-- #### [AWS Developer Associate training ](https://www.udemy.com/course/aws-developer-associate-training/) by ***Alan Rodrigues*** Duration: 6.37hrs
+- #### [AWS Developer Associate training ](https://www.udemy.com/course/aws-developer-associate-training/) by ***Alan Rodrigues*** - Duration: 6.37hrs
 
- 
+ ---
 
 
 
