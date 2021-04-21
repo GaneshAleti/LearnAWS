@@ -47,17 +47,17 @@
 
 
 
-- #### [Master Amazon EC2 Basics with 10 Labs](https://www.udemy.com/course/ec2with10labs/) by ***Saurav Sharma, Bipra Tech*** Duration: 2.26hrs
+- #### [Master Amazon EC2 Basics with 10 Labs](https://www.udemy.com/course/ec2with10labs/) by ***Saurav Sharma, Bipra Tech*** - Duration: 2.26hrs
 
-- #### [Amazon Web Services (AWS) EC2: An Introduction](https://www.udemy.com/course/amazon-web-services-aws-ec2-an-introduction/) by ***Dr Monjur Ahmed*** Duration: 1.28hrs
+- [Amazon Web Services (AWS) EC2: An Introduction](https://www.udemy.com/course/amazon-web-services-aws-ec2-an-introduction/) by ***Dr Monjur Ahmed*** - Duration: 1.28hrs
 
-- #### [AWS EC2 Fast and Simple ](https://www.udemy.com/course/aws-ec2-fast-and-simple/) by ***Tom Jay*** Duration: 1.18hrs
+-  [AWS EC2 Fast and Simple ](https://www.udemy.com/course/aws-ec2-fast-and-simple/) by ***Tom Jay*** - Duration: 1.18hrs
 
-- #### [Mastering AWS: Featuring IAM](https://www.udemy.com/course/mastering-aws-featuring-iam/) by *** Alston Godbolt*** Duration: 1.19hrs
+-  [Mastering AWS: Featuring IAM](https://www.udemy.com/course/mastering-aws-featuring-iam/) by ***Alston Godbolt*** - Duration: 1.19hrs
 
-- #### [AWS RDS Databases - Fast Track](https://www.udemy.com/course/aws-rds-databases-tutorial-training-free/) by ***Siddharth Mehta*** Duration: 2.16hrs
+-  [AWS RDS Databases - Fast Track](https://www.udemy.com/course/aws-rds-databases-tutorial-training-free/) by ***Siddharth Mehta*** - Duration: 2.16hrs
  
- - #### [AWS Tutorials - DynamoDB and Database Migration Service ](https://www.udemy.com/course/namrata-h-shah-aws-tutorials-dynamodb-and-database-migration-service/) by ***Namrata H Shah*** Duration: 2.29hrs
+ -  [AWS Tutorials - DynamoDB and Database Migration Service ](https://www.udemy.com/course/namrata-h-shah-aws-tutorials-dynamodb-and-database-migration-service/) by ***Namrata H Shah*** - Duration: 2.29hrs
 
 -  #### [Creating a cPanel Instance using Amazon AWS ](https://www.udemy.com/course/cpanel-and-aws/) by ***cPanel LLC*** Duration: 33mins
 
