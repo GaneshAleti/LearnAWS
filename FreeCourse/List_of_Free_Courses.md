@@ -31,88 +31,63 @@
 
 - #### [AWS Concepts ](https://www.udemy.com/course/aws-concepts/) by ***Linux Academy, Thomas Haslett*** Duration: 1.17hrs
  
-#### [Overview of AWS Services eco-system (Not a hands on course) ](https://www.udemy.com/course/overview-of-aws-services/) by ***Chetan Agrawal***
- - Duration: 40mins
+- #### [Overview of AWS Services eco-system (Not a hands on course) ](https://www.udemy.com/course/overview-of-aws-services/) by ***Chetan Agrawal*** Duration: 40mins
  
- #### [Starting your Career with Amazon AWS ](https://www.udemy.com/course/how-to-start-a-carrer-in-cloud-computing-with-amazon-aws/) by ***Andrew I***
- - Duration: 35mins
+- #### [Starting your Career with Amazon AWS ](https://www.udemy.com/course/how-to-start-a-carrer-in-cloud-computing-with-amazon-aws/) by ***Andrew I*** Duration: 35mins
  
- #### [Free AWS Certified Cloud Practitioner 2019 ](https://www.udemy.com/course/free-aws-certified-cloud-practitioner/) by ***Andrew Brown, Andrew Bayko***
- - Duration: 3.44hrs
+- #### [Free AWS Certified Cloud Practitioner 2019 ](https://www.udemy.com/course/free-aws-certified-cloud-practitioner/) by ***Andrew Brown, Andrew Bayko** Duration: 3.44hrs
 
-#### [Learn Amazon Web Services (AWS) easily to become Architect](https://www.udemy.com/course/learn-amazon-web-services-aws-easily-to-become-architect/) by 
- - Duration: 5.38hrs
+- #### [Learn Amazon Web Services (AWS) easily to become Architect](https://www.udemy.com/course/learn-amazon-web-services-aws-easily-to-become-architect/) by  Duration: 5.38hrs
 
-#### [AWS Certified Solutions Architect Associate Introduction ](https://www.udemy.com/course/aws-certified-solutions-architect-associate-in-30-days/) by ***Premraj Jeyaprakash***
- - Duration:2.9hrs
+- #### [AWS Certified Solutions Architect Associate Introduction ](https://www.udemy.com/course/aws-certified-solutions-architect-associate-in-30-days/) by ***Premraj Jeyaprakash*** Duration:2.9hrs
 
-#### [AWS Developer Associate training ](https://www.udemy.com/course/aws-developer-associate-training/) by ***Alan Rodrigues***
- - Duration: 6.37hrs
+- #### [AWS Developer Associate training ](https://www.udemy.com/course/aws-developer-associate-training/) by ***Alan Rodrigues*** Duration: 6.37hrs
 
  
 
 
 
-#### [Master Amazon EC2 Basics with 10 Labs](https://www.udemy.com/course/ec2with10labs/) by ***Saurav Sharma, Bipra Tech***
- - Duration: 2.26hrs
+- #### [Master Amazon EC2 Basics with 10 Labs](https://www.udemy.com/course/ec2with10labs/) by ***Saurav Sharma, Bipra Tech*** Duration: 2.26hrs
 
-#### [Amazon Web Services (AWS) EC2: An Introduction](https://www.udemy.com/course/amazon-web-services-aws-ec2-an-introduction/) by ***Dr Monjur Ahmed***
- - Duration: 1.28hrs
+- #### [Amazon Web Services (AWS) EC2: An Introduction](https://www.udemy.com/course/amazon-web-services-aws-ec2-an-introduction/) by ***Dr Monjur Ahmed*** Duration: 1.28hrs
 
-#### [AWS EC2 Fast and Simple ](https://www.udemy.com/course/aws-ec2-fast-and-simple/) by ***Tom Jay***
- - Duration: 1.18hrs
+- #### [AWS EC2 Fast and Simple ](https://www.udemy.com/course/aws-ec2-fast-and-simple/) by ***Tom Jay*** Duration: 1.18hrs
 
-#### [Mastering AWS: Featuring IAM](https://www.udemy.com/course/mastering-aws-featuring-iam/) by *** Alston Godbolt***
- - Duration: 1.19hrs
+- #### [Mastering AWS: Featuring IAM](https://www.udemy.com/course/mastering-aws-featuring-iam/) by *** Alston Godbolt*** Duration: 1.19hrs
 
-#### [AWS RDS Databases - Fast Track](https://www.udemy.com/course/aws-rds-databases-tutorial-training-free/) by ***Siddharth Mehta***
- - Duration: 2.16hrs
+- #### [AWS RDS Databases - Fast Track](https://www.udemy.com/course/aws-rds-databases-tutorial-training-free/) by ***Siddharth Mehta*** Duration: 2.16hrs
  
- #### [AWS Tutorials - DynamoDB and Database Migration Service ](https://www.udemy.com/course/namrata-h-shah-aws-tutorials-dynamodb-and-database-migration-service/) by ***Namrata H Shah***
- - Duration: 2.29hrs
+ - #### [AWS Tutorials - DynamoDB and Database Migration Service ](https://www.udemy.com/course/namrata-h-shah-aws-tutorials-dynamodb-and-database-migration-service/) by ***Namrata H Shah*** Duration: 2.29hrs
 
- #### [Creating a cPanel Instance using Amazon AWS ](https://www.udemy.com/course/cpanel-and-aws/) by ***cPanel LLC***
- - Duration: 33mins
+-  #### [Creating a cPanel Instance using Amazon AWS ](https://www.udemy.com/course/cpanel-and-aws/) by ***cPanel LLC*** Duration: 33mins
 
- #### [Getting Started with Data Analytics on AWS ](https://www.udemy.com/course/getting-started-data-analytics-aws/) by ***AWS, a subsidiary of Amazon.com, Rafael "Raf" Lopes***
- - Duration: 1.14hrs
+-  #### [Getting Started with Data Analytics on AWS ](https://www.udemy.com/course/getting-started-data-analytics-aws/) by ***AWS, a subsidiary of Amazon.com, Rafael "Raf" Lopes*** Duration: 1.14hrs
 
- #### [AWS IoT: Developing and Deploying an Internet of Things ](https://www.udemy.com/course/aws-iot-internet-of-things/) by ***AWS, a subsidiary of Amazon.com, Allen Goldberg, Wes Gruver, Bobbie Atristain, Neel Mitra, Adam Becker***
- - Duration: 1.31hrs
+- #### [AWS IoT: Developing and Deploying an Internet of Things ](https://www.udemy.com/course/aws-iot-internet-of-things/) by ***AWS, a subsidiary of Amazon.com, Allen Goldberg, Wes Gruver, Bobbie Atristain, Neel Mitra, Adam Becker*** Duration: 1.31hrs
 
- #### [AWS Tutorials - VPC Peering ](https://www.udemy.com/course/namrata-h-shah-aws-tutorials-vpc-peering/) by ***Namrata H Shah***
- - Duration: 2.43hrs
+-  #### [AWS Tutorials - VPC Peering ](https://www.udemy.com/course/namrata-h-shah-aws-tutorials-vpc-peering/) by ***Namrata H Shah*** Duration: 2.43hrs
 
-#### [Amazon Web Services (AWS): CloudFormation ](https://www.udemy.com/course/amazon-web-services-aws-cloudformation/) by ***Dr Monjur Ahmed***
- - Duration: 1.23hrs
+- #### [Amazon Web Services (AWS): CloudFormation ](https://www.udemy.com/course/amazon-web-services-aws-cloudformation/) by ***Dr Monjur Ahmed*** Duration: 1.23hrs
 
- #### [AWS AppStream 2.0 - Introduction](https://www.udemy.com/course/aws-appstream-20-introduction/) by ***James Scanlon***
- - Duration: 1.24hrs
+- #### [AWS AppStream 2.0 - Introduction](https://www.udemy.com/course/aws-appstream-20-introduction/) by ***James Scanlon*** Duration: 1.24hrs
 
 
 
 
 
- #### [Building An Amazon Virtual Private Cloud (VPC) ](https://www.udemy.com/course/building-an-amazon-virtual-private-cloud-vpc/) by ***Charles Smith***
- - Duration: 40mins
+- #### [Building An Amazon Virtual Private Cloud (VPC) ](https://www.udemy.com/course/building-an-amazon-virtual-private-cloud-vpc/) by ***Charles Smith*** Duration: 40mins
 
- #### [Spring Boot and AWS S3 ](https://www.udemy.com/course/spring-boot-and-aws-s3/) by ***Nelson Jamal***
- - Duration: 2.18hrs
+ - #### [Spring Boot and AWS S3 ](https://www.udemy.com/course/spring-boot-and-aws-s3/) by ***Nelson Jamal*** Duration: 2.18hrs
 
- #### [Create a Node JS backend app and host it on AWS ](https://www.udemy.com/course/free-create-a-node-js-backend-app-and-host-it-on-aws/) by ******
- - Duration: 1.46mins
+-  #### [Create a Node JS backend app and host it on AWS ](https://www.udemy.com/course/free-create-a-node-js-backend-app-and-host-it-on-aws/) by ****** Duration: 1.46mins
 
- #### [Learn to Deploy Containers on AWS in 2021 ](https://www.udemy.com/course/learn-to-deploy-containers-on-aws-in-2021/) by ***Manoj Fernando***
- - Duration: 41mins
+-  #### [Learn to Deploy Containers on AWS in 2021 ](https://www.udemy.com/course/learn-to-deploy-containers-on-aws-in-2021/) by ***Manoj Fernando*** Duration: 41mins
 
- #### [Serverless computing in AWS](https://www.udemy.com/course/serverless-computing-in-aws/) by ***Alan Rodrigues***
- - Duration: 4.14hrs
+-  #### [Serverless computing in AWS](https://www.udemy.com/course/serverless-computing-in-aws/) by ***Alan Rodrigues*** Duration: 4.14hrs
  
-#### [Big Data Apache Single Node Hadoop Deployment On - AWS Cloud](https://www.udemy.com/course/single-node-hadoop/) by ***Imran Chaush***
- - Duration: 39mins
+- #### [Big Data Apache Single Node Hadoop Deployment On - AWS Cloud](https://www.udemy.com/course/single-node-hadoop/) by ***Imran Chaush*** Duration: 39mins
  
- #### [Deployment of machine learning](https://www.udemy.com/course/deployment-of-machine-learning/) by ***Noah Weber***
- - Duration: 1.49hrs
+ - #### [Deployment of machine learning](https://www.udemy.com/course/deployment-of-machine-learning/) by ***Noah Weber*** Duration: 1.49hrs
 
 
 
