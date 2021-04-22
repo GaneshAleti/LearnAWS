@@ -2,7 +2,7 @@
  
  
  ## Amazon Web ServicesAWS Fundamentals Specialization
- ***Platform: Coursera (Audit only No Certificate)***
+ ***Platform: Coursera (Audit only No Certificate)***<span style="background-color:green">
  
 -  [AWS Cloud Technical Essentials](https://www.coursera.org/learn/aws-cloud-technical-essentials/home/welcome)
 
@@ -59,36 +59,36 @@
  
  -  [AWS Tutorials - DynamoDB and Database Migration Service ](https://www.udemy.com/course/namrata-h-shah-aws-tutorials-dynamodb-and-database-migration-service/) by ***Namrata H Shah*** - Duration: 2.29hrs
 
--   [Creating a cPanel Instance using Amazon AWS ](https://www.udemy.com/course/cpanel-and-aws/) by ***cPanel LLC*** Duration: 33mins
+-   [Creating a cPanel Instance using Amazon AWS ](https://www.udemy.com/course/cpanel-and-aws/) by ***cPanel LLC*** - Duration: 33mins
 
--   [Getting Started with Data Analytics on AWS ](https://www.udemy.com/course/getting-started-data-analytics-aws/) by ***AWS, a subsidiary of Amazon.com, Rafael "Raf" Lopes*** Duration: 1.14hrs
+-   [Getting Started with Data Analytics on AWS ](https://www.udemy.com/course/getting-started-data-analytics-aws/) by ***AWS, a subsidiary of Amazon.com, Rafael "Raf" Lopes*** - Duration: 1.14hrs
 
--  [AWS IoT: Developing and Deploying an Internet of Things ](https://www.udemy.com/course/aws-iot-internet-of-things/) by ***AWS, a subsidiary of Amazon.com, Allen Goldberg, Wes Gruver, Bobbie Atristain, Neel Mitra, Adam Becker*** Duration: 1.31hrs
+-  [AWS IoT: Developing and Deploying an Internet of Things ](https://www.udemy.com/course/aws-iot-internet-of-things/) by ***AWS, a subsidiary of Amazon.com, Allen Goldberg, Wes Gruver, Bobbie Atristain, Neel Mitra, Adam Becker*** - Duration: 1.31hrs
 
--   [AWS Tutorials - VPC Peering ](https://www.udemy.com/course/namrata-h-shah-aws-tutorials-vpc-peering/) by ***Namrata H Shah*** Duration: 2.43hrs
+-   [AWS Tutorials - VPC Peering ](https://www.udemy.com/course/namrata-h-shah-aws-tutorials-vpc-peering/) by ***Namrata H Shah*** - Duration: 2.43hrs
 
--  [Amazon Web Services (AWS): CloudFormation ](https://www.udemy.com/course/amazon-web-services-aws-cloudformation/) by ***Dr Monjur Ahmed*** Duration: 1.23hrs
+-  [Amazon Web Services (AWS): CloudFormation ](https://www.udemy.com/course/amazon-web-services-aws-cloudformation/) by ***Dr Monjur Ahmed*** - Duration: 1.23hrs
 
--  [AWS AppStream 2.0 - Introduction](https://www.udemy.com/course/aws-appstream-20-introduction/) by ***James Scanlon*** Duration: 1.24hrs
+-  [AWS AppStream 2.0 - Introduction](https://www.udemy.com/course/aws-appstream-20-introduction/) by ***James Scanlon*** - Duration: 1.24hrs
 
 
 ---
 ---
 
 
--  [Building An Amazon Virtual Private Cloud (VPC) ](https://www.udemy.com/course/building-an-amazon-virtual-private-cloud-vpc/) by ***Charles Smith*** Duration: 40mins
+-  [Building An Amazon Virtual Private Cloud (VPC) ](https://www.udemy.com/course/building-an-amazon-virtual-private-cloud-vpc/) by ***Charles Smith*** - Duration: 40mins
 
- -  [Spring Boot and AWS S3 ](https://www.udemy.com/course/spring-boot-and-aws-s3/) by ***Nelson Jamal*** Duration: 2.18hrs
+ -  [Spring Boot and AWS S3 ](https://www.udemy.com/course/spring-boot-and-aws-s3/) by ***Nelson Jamal*** - Duration: 2.18hrs
 
--   [Create a Node JS backend app and host it on AWS ](https://www.udemy.com/course/free-create-a-node-js-backend-app-and-host-it-on-aws/) by ****** Duration: 1.46mins
+-   [Create a Node JS backend app and host it on AWS ](https://www.udemy.com/course/free-create-a-node-js-backend-app-and-host-it-on-aws/) by ***Michael Gradek*** - Duration: 1.46mins
 
--   [Learn to Deploy Containers on AWS in 2021 ](https://www.udemy.com/course/learn-to-deploy-containers-on-aws-in-2021/) by ***Manoj Fernando*** Duration: 41mins
+-   [Learn to Deploy Containers on AWS in 2021 ](https://www.udemy.com/course/learn-to-deploy-containers-on-aws-in-2021/) by ***Manoj Fernando*** - Duration: 41mins
 
--   [Serverless computing in AWS](https://www.udemy.com/course/serverless-computing-in-aws/) by ***Alan Rodrigues*** Duration: 4.14hrs
+-   [Serverless computing in AWS](https://www.udemy.com/course/serverless-computing-in-aws/) by ***Alan Rodrigues*** - Duration: 4.14hrs
  
--  [Big Data Apache Single Node Hadoop Deployment On - AWS Cloud](https://www.udemy.com/course/single-node-hadoop/) by ***Imran Chaush*** Duration: 39mins
+-  [Big Data Apache Single Node Hadoop Deployment On - AWS Cloud](https://www.udemy.com/course/single-node-hadoop/) by ***Imran Chaush*** - Duration: 39mins
  
- -  [Deployment of machine learning](https://www.udemy.com/course/deployment-of-machine-learning/) by ***Noah Weber*** Duration: 1.49hrs
+ -  [Deployment of machine learning](https://www.udemy.com/course/deployment-of-machine-learning/) by ***Noah Weber*** - Duration: 1.49hrs
 
 
 
