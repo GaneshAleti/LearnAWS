@@ -90,16 +90,17 @@
  
  -  [Deployment of machine learning](https://www.udemy.com/course/deployment-of-machine-learning/) by ***Noah Weber*** - Duration: 1.49hrs
 
-/
-/
-/ ## Youtube Courses
+
+## Youtube Courses
  
  - [AWS Tutorial For Beginners | AWS Full Course - Learn AWS In 10 Hours | AWS Training | Edureka](https://www.youtube.com/watch?v=k1RI5locZE4) by ***Edureka*** - Duration: 10hrs
 
  - [AWS Basics for Beginners - Full Course](https://www.youtube.com/watch?v=ulprqHHWlng) by ***freeCodeCamp.org*** - Duration: 5.27hrs
  - [AWS Full Course In 11 Hours | AWS Tutorial For Beginners | AWS Training For Beginners | Simplilearn](https://www.youtube.com/watch?v=uQdzcIf_KII&t=1534s) by ***Simplilearn*** - Duration: 10.56hrs
+ - [AWS Tutorial | AWS Course - Learn AWS In 11 Hours | AWS Training | Intellipaat](https://www.youtube.com/watch?v=cJLJrLlZ8no) by ***Intellipaat*** - Duration: 10.31hrs
 
-
+ - [AWS | AWS Tutorial | AWS Full Course - Complete AWS In 15 Hours | Deccansoft](https://www.youtube.com/watch?v=5oEJvuiJ230) by ***BestDotNetTraining*** - Duration: 16.24hrs
+ - [AWS Services Full Course - 9 Hours | AWS Tutorial For Beginners | AWS Training | Edureka](https://www.youtube.com/watch?v=pHPcmWcCI-4) by ***Edureka*** - Duration: 9.18hrs
 
 
 
