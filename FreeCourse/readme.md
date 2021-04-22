@@ -1,8 +1,9 @@
 # Free AWS Course List
  
+<div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:40px 0;">
  
  ## Amazon Web ServicesAWS Fundamentals Specialization
- ***Platform: Coursera (Audit only No Certificate)***<span style="background-color:green">Mrs. Robinson</span>
+ ***Platform: Coursera (Audit only No Certificate)*** 
 -  [AWS Cloud Technical Essentials](https://www.coursera.org/learn/aws-cloud-technical-essentials/home/welcome)
 
 -  [AWS Fundamentals: Addressing Security Risk](https://www.coursera.org/learn/aws-fundamentals-addressing-security-risk?specialization=aws-fundamentals)
@@ -91,7 +92,7 @@
 
 
 
-
+</div>
 
 
 
