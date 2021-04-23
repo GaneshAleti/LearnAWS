@@ -1,5 +1,6 @@
 # LearnAWS
 This repository helps you to find resources to learn AWS services in which  I put  together in order to help newbies(incl me) to learn the Basics of AWS. 
+![](https://gfycat.com/cleartinydachshund)
 
 ## Table of Contents
 - #### [AWS Courses List](https://github.com/No1Sploit/LearnAWS/tree/main/FreeCourse#readme) 
